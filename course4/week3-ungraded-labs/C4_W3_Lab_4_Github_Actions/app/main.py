@@ -4,7 +4,7 @@ from typing import List
 from fastapi import FastAPI
 from pydantic import BaseModel, conlist
 
-
+# Adding comment to triiger GitHub Actions!
 
 app = FastAPI(title="Predicting Wine Class with batching")
 
